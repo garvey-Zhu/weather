@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by Administrator on 2017/7/4.
+ * Created by Garvey on 2017/7/4.
  */
 @RequestMapping("/${frontPath}/test")
 @RestController("myTestController")
